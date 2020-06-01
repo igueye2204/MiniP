@@ -1,0 +1,91 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+h1
+{
+    font-size: 40px;
+    color: white;
+    width: 500px;
+    margin-left: 450px;
+    margin-top: 0px;
+    padding-top: 20px;
+    margin-bottom: 0px;
+}
+p
+{
+    color: #ffff;
+    font-weight: bold;
+}
+a
+{
+    color: darkgray;
+    font-weight: bold;
+    font-weight: unset;
+
+}
+nav
+{
+    padding-left: 0px;
+    height: 220px;
+}
+ul
+{
+    padding-left: 0px;
+    margin-bottom: 0px;
+    height: 250px;
+    margin-top: 0px;
+
+
+}
+ol
+{
+    padding: 0px;
+}
+.ol2
+{
+  
+    width: 100px;
+    margin-left: 160px;
+    padding-top: 30px;
+    font: bold large bolder;
+
+}
+button
+{
+    width: 300px;
+    height: 63px;
+    border-right-width: 0px;
+    border: #ffffff;
+    font-weight: bold;
+    text-align: left;
+    padding-right: 0px;
+    padding-left: 20px;
+    font-weight: bold;
+    font-weight: unset;
+}
+.header
+{
+    
+    height:100px;
+   background-color: rgb(0, 36, 36);
+}
+img
+{
+    position: absolute;
+    width: 70px;
+    height: 100px;
+    top: 10px;
+}
+.content
+{
+    width: 1094px;
+    height: 700px;
+    image-resolution: 1326px;
+    background-image: url(../Images/img-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 1094px;
+    
+}
+
